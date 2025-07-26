@@ -9,3 +9,5 @@ run里面的文件：
 
 fruit_test.py为测试
 fruit_train.py为训练源码
+
+注意文件路径要改成自己的！
