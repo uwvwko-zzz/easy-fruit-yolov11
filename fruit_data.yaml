@@ -1,0 +1,9 @@
+train: ./fruit/train/images
+val: ./fruit/valid/images
+split: 0.2  # 自动划分20%数据作为验证集
+nc: 3
+names: [
+    'Apple',          
+    'Banana',
+    'Orange'       
+]
